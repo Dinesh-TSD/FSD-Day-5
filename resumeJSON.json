@@ -1,0 +1,68 @@
+{
+    "name": "T.Dinesh",
+    "contact": {
+      "email": "dinesh123@gmail.com",
+      "phone": "9550066778",
+      "address": "123 Main Road, cuddaolre, tamil nadu, 606 500"
+    },
+    "summary": "Experienced software developer with a passion for creating innovative web applications.",
+    "education": [
+      {
+        "diploma": "diploma in computer Science",
+        "school": "GBHSS",
+        "year": "2020"
+      },
+      {
+        "degree": "Master of Science in Software Engineering",
+        "year": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Full Stack Developer",
+        "company": "Guvi Geek Privated Ltd...",
+        "location": "chennai",
+        "startDate": "2023-09-01",
+        "endDate": "2023-12-31",
+        "description": "Developed web applications using JavaScript, Node.js, and React. Collaborated with cross-functional teams to deliver high-quality software products."
+      },
+      {
+        "position": "FSD in Android,Iphone,website,windows,linux,Mac",
+        "company": "Freelancer",
+        "location": "World Wide",
+        "startDate": "2023-01-01",
+        "endDate": "No End",
+        "description": "Participated in the development of web applications and gained hands-on experience with HTML, CSS, and JavaScript."
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "HTML5",
+      "CSS3",
+      "Git",
+      "MERN Stack",
+      "React Native",
+      "Problem Solving"
+    ],
+    "languages": [
+      "Tamil (Fluent)",
+      "English (Intermediate)"
+    ],
+    "references": [
+      {
+        "name": "Thiru",
+        "company": "Guvi Geek Privated Ltd...",
+        "email": "Thiru123@gmail.com",
+        "phone": "9452752354"
+      },
+      {
+        "name": "Deepika",
+        "company": "Guvi Geek Privated Ltd...",
+        "email": "Deepika123@gmail.com",
+        "phone": "9697539856"
+      }
+    ]
+  }
+  

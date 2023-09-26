@@ -1,0 +1,13 @@
+Q3.
+differences between window, screen, and document objects in JavaScript:
+
+
+window = Represents the global browser window 
+        and serves as the top-level object for manipulating the browser's state.
+
+
+screen = Represents the user's screen or monitor and provides 
+            information about its size and characteristics.
+
+document = Represents the web page or document loaded in the browser
+             and allows manipulation of its content and structure.
